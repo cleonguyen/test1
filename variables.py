@@ -47,3 +47,4 @@ if dad_weight < 100: #condition if ____ : , == exactly != not equal to
     print("You're not overweight, probably...")
 else:
     print("You gotta exercise more!")
+
