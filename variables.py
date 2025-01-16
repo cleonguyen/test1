@@ -20,3 +20,12 @@ temp =-15
 weight = 190.468 #decimal called float (+/-)
 print(weight*2)
 
+flour = 250
+dad_weight = 76.5
+
+shirt = "blue" #text called string, needs "" or ''
+print(shirt)
+
+store = "Nick's Pizza Shop, the 'best' there is" #if quoting can use \ to indicate e.g. "Nick\'s 
+store = 'Nick\'s Pizza Shop, the "best" there is' # or using apostrophes
+print(store)
